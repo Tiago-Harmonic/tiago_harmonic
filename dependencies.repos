@@ -1,7 +1,7 @@
 repositories:
   tiago_simulation:
     type: git
-    url: https://github.com/IntelligentRoboticsLabs/tiago_simulation.git
+    url: https://github.com/Tiago-Harmonic/tiago_harmonic.git
     version: humble-devel
   urdf_test:
     type: git
