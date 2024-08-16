@@ -57,3 +57,7 @@ repositories:
     type: git
     url: https://github.com/Tiago-Harmonic/omni_base_robot.git
     version: humble-devel
+  pal_urdf_utils:
+    type: git
+    url: https://github.com/pal-robotics/pal_urdf_utils.git
+    version: humble-devel
