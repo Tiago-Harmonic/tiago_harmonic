@@ -9,7 +9,7 @@ repositories:
     version: master
   pal_gazebo_worlds:
     type: git
-    url: https://github.com/Tiago-Harmonic/pal_gazebo_worlds.git
+    url: https://github.com/Tiago-Harmonic/br2_gazebo_worlds.git
     version: humble-devel
   play_motion2:
     type: git
