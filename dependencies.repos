@@ -1,24 +1,24 @@
 repositories:
   tiago_simulation:
     type: git
-    url: https://github.com/Tiago-Harmonic/tiago_harmonic.git
+    url: https://github.com/Tiago-Harmonic/tiago_simulation.git
     version: humble-devel
   launch_pal:
     type: git
-    url: https://github.com/Tiago-Harmoniclaunch_pal.git
+    url: https://github.com/Tiago-Harmonic/launch_pal.git
     version: master
   pal_gazebo_worlds:
     type: git
-    url: https://github.com/Tiago-Harmonicpal_gazebo_worlds.git
+    url: https://github.com/Tiago-Harmonic/pal_gazebo_worlds.git
     version: humble-devel
   play_motion2:
     type: git
-    url: https://github.com/Tiago-Harmonicplay_motion2.git
+    url: https://github.com/Tiago-Harmonic/play_motion2.git
     version: humble-devel
 
   pmb2_robot:
     type: git
-    url: https://github.com/Tiago-Harmonicpmb2_robot.git
+    url: https://github.com/Tiago-Harmonic/pmb2_robot.git
     version: humble-devel
   pmb2_navigation:
     type: git
@@ -27,7 +27,7 @@ repositories:
 
   tiago_robot:
     type: git
-    url: https://github.com/Tiago-Harmonictiago_robot.git
+    url: https://github.com/Tiago-Harmonic/tiago_robot.git
     version: humble-devel
   tiago_navigation:
     type: git
@@ -35,25 +35,25 @@ repositories:
     version: humble-devel
   tiago_simulation:
     type: git
-    url: https://github.com/Tiago-Harmonictiago_simulation.git
+    url: https://github.com/Tiago-Harmonic/tiago_simulation.git
     version: humble-devel
   pal_hey5:
     type: git
-    url: https://github.com/Tiago-Harmonicpal_hey5.git
+    url: https://github.com/Tiago-Harmonic/pal_hey5.git
     version: humble-devel
   pal_gripper:
     type: git
-    url: https://github.com/Tiago-Harmonicpal_gripper.git
+    url: https://github.com/Tiago-Harmonic/pal_gripper.git
     version: humble-devel
   pal_robotiq_gripper:
     type: git
-    url: https://github.com/Tiago-Harmonicpal_robotiq_gripper.git
+    url: https://github.com/Tiago-Harmonic/pal_robotiq_gripper.git
     version: humble-devel
   tiago_moveit_config:
     type: git
-    url: https://github.com/Tiago-Harmonictiago_moveit_config.git
+    url: https://github.com/Tiago-Harmonic/tiago_moveit_config.git
     version: humble-devel
-  tiago_omni_base
+  tiago_omni_base:
     type: git
     url: https://github.com/Tiago-Harmonic/omni_base_robot.git
     version: humble-devel
