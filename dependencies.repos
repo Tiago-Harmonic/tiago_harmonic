@@ -1,57 +1,57 @@
 repositories:
-  tiago_simulation:
+  br2_gazebo_worlds:
     type: git
-    url: https://github.com/Tiago-Harmonic/tiago_simulation.git
-    version: jazzy
+    url: https://github.com/Tiago-Harmonic/br2_gazebo_worlds.git
+    version: main
   launch_pal:
     type: git
     url: https://github.com/Tiago-Harmonic/launch_pal.git
     version: master
-  pal_gazebo_worlds:
-    type: git
-    url: https://github.com/Tiago-Harmonic/br2_gazebo_worlds.git
-    version: main
-  play_motion2:
-    type: git
-    url: https://github.com/Tiago-Harmonic/play_motion2.git
-    version: jazzy
-  pmb2_robot:
-    type: git
-    url: https://github.com/Tiago-Harmonic/pmb2_robot.git
-    version: jazzy
-  pmb2_navigation:
-    type: git
-    url: https://github.com/pal-robotics/pmb2_navigation.git
-    version: humble-devel
-  tiago_robot:
-    type: git
-    url: https://github.com/Tiago-Harmonic/tiago_robot.git
-    version: jazzy
-  tiago_navigation:
-    type: git
-    url: https://github.com/pal-robotics/tiago_navigation.git
-    version: humble-devel
-  pal_hey5:
-    type: git
-    url: https://github.com/Tiago-Harmonic/pal_hey5.git
-    version: jazzy
   pal_gripper:
     type: git
     url: https://github.com/Tiago-Harmonic/pal_gripper.git
+    version: jazzy
+  pal_hey5:
+    type: git
+    url: https://github.com/Tiago-Harmonic/pal_hey5.git
     version: jazzy
   pal_robotiq_gripper:
     type: git
     url: https://github.com/Tiago-Harmonic/pal_robotiq_gripper.git
     version: jazzy
+  pal_urdf_utils:
+    type: git
+    url: https://github.com/Tiago-Harmonic/pal_urdf_utils.git
+    version: jazzy
+  play_motion2:
+    type: git
+    url: https://github.com/Tiago-Harmonic/play_motion2.git
+    version: jazzy
+  pmb2_navigation:
+    type: git
+    url: https://github.com/pal-robotics/pmb2_navigation.git
+    version: humble-devel
+  pmb2_robot:
+    type: git
+    url: https://github.com/Tiago-Harmonic/pmb2_robot.git
+    version: jazzy
   tiago_moveit_config:
     type: git
     url: https://github.com/Tiago-Harmonic/tiago_moveit_config.git
     version: jazzy
+  tiago_navigation:
+    type: git
+    url: https://github.com/pal-robotics/tiago_navigation.git
+    version: humble-devel
   tiago_omni_base:
     type: git
     url: https://github.com/Tiago-Harmonic/omni_base_robot.git
     version: jazzy
-  pal_urdf_utils:
+  tiago_robot:
     type: git
-    url: https://github.com/Tiago-Harmonic/pal_urdf_utils.git
+    url: https://github.com/Tiago-Harmonic/tiago_robot.git
+    version: jazzy
+  tiago_simulation:
+    type: git
+    url: https://github.com/Tiago-Harmonic/tiago_simulation.git
     version: jazzy
