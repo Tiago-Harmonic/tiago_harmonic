@@ -15,7 +15,6 @@ repositories:
     type: git
     url: https://github.com/Tiago-Harmonic/play_motion2.git
     version: jazzy
-
   pmb2_robot:
     type: git
     url: https://github.com/Tiago-Harmonic/pmb2_robot.git
@@ -24,7 +23,6 @@ repositories:
     type: git
     url: https://github.com/pal-robotics/pmb2_navigation.git
     version: humble-devel
-
   tiago_robot:
     type: git
     url: https://github.com/Tiago-Harmonic/tiago_robot.git
@@ -55,5 +53,5 @@ repositories:
     version: jazzy
   pal_urdf_utils:
     type: git
-    url: https://github.com/pal-robotics/pal_urdf_utils.git
+    url: https://github.com/Tiago-Harmonic/pal_urdf_utils.git
     version: jazzy
