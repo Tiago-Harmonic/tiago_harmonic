@@ -25,7 +25,7 @@ jobs:
       - name: build and test
         uses: ros-tooling/action-ros-ci@0.3.13
         with:
-          package-name: local_navigation
+          package-name: tiago_harmonic
           target-ros2-distro: jazzy
           vcs-repo-file-url: ${GITHUB_WORKSPACE}/dependencies.repos
           skip-test: true
