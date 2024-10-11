@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>tiago_harmonic</name>
+  <version>1.0.0</version>
+  <description>Tiago Harmonic</description>
+  <maintainer email="juancarlos.serrano@urjc.es">Juan Carlos Manzanares Serrano</maintainer>
+  <license>Apache-2.0</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <build_depend>tiago_simulation</build_depend>
+  <build_depend>tiago_launch</build_depend>
+  <build_depend>br2_gazebo_worlds</build_depend>
+  <build_depend>pmb2_navigation</build_depend>
+  <build_depend>omni_base_robot</build_depend>
+  <build_depend>pmb2_robot</build_depend>
+  <build_depend>pal_robotiq_gripper</build_depend>
+  <build_depend>pal_gripper</build_depend>
+  <build_depend>pal_gripper_simulation</build_depend>
+  <build_depend>pal_hey5</build_depend>
+  <build_depend>tiago_navigation</build_depend>
+  <build_depend>tiago_robot</build_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
