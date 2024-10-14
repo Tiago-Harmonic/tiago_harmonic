@@ -15,6 +15,10 @@ repositories:
     type: git
     url: https://github.com/Tiago-Harmonic/pal_hey5.git
     version: jazzy
+  pal_maps:
+    type: git
+    url: https://github.com/pal-robotics/pal_maps
+    version: humble-devel
   pal_robotiq_gripper:
     type: git
     url: https://github.com/Tiago-Harmonic/pal_robotiq_gripper.git
@@ -41,8 +45,8 @@ repositories:
     version: jazzy
   tiago_navigation:
     type: git
-    url: https://github.com/pal-robotics/tiago_navigation.git
-    version: humble-devel
+    url: https://github.com/Tiago-Harmonic/tiago_navigation
+    version: jazzy
   tiago_omni_base:
     type: git
     url: https://github.com/Tiago-Harmonic/omni_base_robot.git
