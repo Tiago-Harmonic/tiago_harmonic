@@ -33,8 +33,8 @@ repositories:
     version: jazzy
   pmb2_navigation:
     type: git
-    url: https://github.com/pal-robotics/pmb2_navigation.git
-    version: humble-devel
+    url: https://github.com/Tiago-Harmonic/pmb2_navigation.git
+    version: jazzy
   pmb2_robot:
     type: git
     url: https://github.com/Tiago-Harmonic/pmb2_robot.git
