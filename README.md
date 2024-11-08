@@ -22,7 +22,7 @@ Create workspace and clone the repository
 ```bash
 mkdir ~/tiago_ws/src
 cd ~/tiago_ws/src
-git clone https://github.com/Tiago-Harmonic/tiago_harmonic.git
+git clone https://github.com/Tiago-Harmonic/tiago_harmonic.git -b jazzy
 vcs import . < tiago_harmonic/dependencies.repos
 ```
 
