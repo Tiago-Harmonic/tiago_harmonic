@@ -1,8 +1,8 @@
 # tiago_harmonic
 
 ![distro](https://img.shields.io/badge/Ubuntu%2024-Jammy%20Jellyfish-orange)
-![distro](https://img.shields.io/badge/ROS2-Jazzy-blue)
-[![jazzy](https://github.com/Tiago-Harmonic/tiago_harmonic/actions/workflows/jazzy_devel.yaml/badge.svg)](https://github.com/Tiago-Harmonic/tiago_harmonic/actions/workflows/jazzy_devel.yaml)
+![distro](https://img.shields.io/badge/ROS2-Rolling-green)
+[![rolling](https://github.com/Tiago-Harmonic/tiago_harmonic/actions/workflows/rolling.yaml/badge.svg)](https://github.com/Tiago-Harmonic/tiago_harmonic/actions/workflows/rolling.yaml)
 
 ## Authors
 * Juan Carlos Manzanares Serrano - juancarlos.serrano@urjc.es 
@@ -22,7 +22,7 @@ Create workspace and clone the repository
 ```bash
 mkdir ~/tiago_ws/src
 cd ~/tiago_ws/src
-git clone https://github.com/Tiago-Harmonic/tiago_harmonic.git
+git clone https://github.com/Tiago-Harmonic/tiago_harmonic.git -b rolling
 vcs import . < tiago_harmonic/dependencies.repos
 ```
 
