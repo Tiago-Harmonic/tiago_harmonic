@@ -17,8 +17,8 @@ repositories:
     version: jazzy
   pal_maps:
     type: git
-    url: https://github.com/pal-robotics/pal_maps
-    version: humble-devel
+    url: https://github.com/Tiago-Harmonic/pal_maps.git
+    version: main
   pal_robotiq_gripper:
     type: git
     url: https://github.com/Tiago-Harmonic/pal_robotiq_gripper.git
