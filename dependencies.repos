@@ -43,6 +43,10 @@ repositories:
     type: git
     url: https://github.com/Tiago-Harmonic/tiago_moveit_config.git
     version: jazzy
+  tiago_moveitpy:
+    type: git
+    url: https://github.com/Tiago-Harmonic/tiago_moveitpy.git
+    version: main
   tiago_navigation:
     type: git
     url: https://github.com/Tiago-Harmonic/tiago_navigation
