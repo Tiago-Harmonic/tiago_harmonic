@@ -10,6 +10,8 @@
 * Juan Sebastían Cely Gutiérrez - juan.cely@urjc.es
 * Yoan Mollard - opensource@aubrune.eu
   
+[![See in YouTube](https://img.youtube.com/vi/k_6EIEdKrc0/0.jpg)](https://www.youtube.com/watch?v=k_6EIEdKrc0)
+  
 ## Installation
 
 You need to have previously installed ROS2. Please follow this [guide](https://docs.ros.org/en/jazzy/Installation.html) if you don't have it.
@@ -75,7 +77,7 @@ For offline navigation in the saved map, make sure that SLAM is closed and load 
 ros2 launch tiago_2dnav tiago_nav_bringup.launch.py is_public_sim:=True world_name:=our_map
 ```
 
-If the new map does not properly loads, build and source the workspace. But that should not be needed with `--symlink-install`.
+If the new map does not properly load: build and source the workspace. But that should not be needed with `--symlink-install`.
 
 Then:
 - use `Estimate 2D pose` in RViz to help AMCL to initialize, and perform some teleoperated movements until AMCL particles have converged.
@@ -106,6 +108,4 @@ ros2 launch tiago_moveitpy plan.launch.py use_sim_time:=True
 ```
 
 Comment [any of the method calls](https://github.com/Tiago-Harmonic/tiago_moveitpy/blob/c35e6f4dab48b20f07f2a700244dce1f5fd460a0/tiago_moveitpy/pick.py#L108-L110) to disable either cartesian-space, joint-space, or gripper motions.
-
-[![See in YouTube](https://img.youtube.com/vi/k_6EIEdKrc0/0.jpg)](https://www.youtube.com/watch?v=k_6EIEdKrc0)
 
