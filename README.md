@@ -7,7 +7,8 @@
 ## Authors
 * Juan Carlos Manzanares Serrano - juancarlos.serrano@urjc.es 
 * Francisco Martín Rico - fmrico@gmail.com
-* Juan Sebastían Cely Gutiérrez - juan.cely@urjc.es 
+* Juan Sebastían Cely Gutiérrez - juan.cely@urjc.es
+* Yoan Mollard - opensource@aubrune.eu
   
 ## Installation
 
