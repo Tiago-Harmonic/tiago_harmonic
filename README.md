@@ -8,7 +8,6 @@
 * Juan Carlos Manzanares Serrano - juancarlos.serrano@urjc.es 
 * Francisco Martín Rico - fmrico@gmail.com
 * Juan Sebastían Cely Gutiérrez - juan.cely@urjc.es
-* Yoan Mollard - opensource@aubrune.eu
   
 [![See in YouTube](https://img.youtube.com/vi/k_6EIEdKrc0/0.jpg)](https://www.youtube.com/watch?v=k_6EIEdKrc0)
   
